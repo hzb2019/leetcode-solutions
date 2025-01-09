@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/
+// Problem specs at https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/
 // Solution beats 29.23% in runtime (361ms) and 30.27% in memory usage (163.6MB)
 
 class Solution {

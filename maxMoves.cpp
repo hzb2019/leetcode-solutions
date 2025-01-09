@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/
+// Problem specs at https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/
 // Solution beats 9.76% in runtime (95ms) and 7.56% in memory usage (91.29MB)
 
 // This solution uses a DFT function to traverse the grid with a

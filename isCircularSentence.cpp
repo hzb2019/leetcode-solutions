@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/circular-sentence
+// Problem specs at https://leetcode.com/problems/circular-sentence
 // Solution beats 100% in runtime (<1ms) and 96.30% in memory usage (8.10MB)
 
 class Solution {

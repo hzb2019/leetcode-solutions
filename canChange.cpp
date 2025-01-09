@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/move-pieces-to-obtain-a-string
+// Problem specs at https://leetcode.com/problems/move-pieces-to-obtain-a-string
 // Solution beats 32.8% in runtime (<24ms) and 99.55% in memory usage (18.88MB)
 
 class Solution {
