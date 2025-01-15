@@ -1,4 +1,4 @@
-// Problem specs at https://leetcode.com/problems/word-subsets
+// Problem specs at https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays
 // Solution beats 25.27% in runtime (19ms) and 11.02% in memory usage (91.13MB)
 
 class Solution {
