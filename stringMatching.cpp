@@ -1,4 +1,4 @@
-// Problem specs at https://leetcode.com/problems/cousins-in-binary-tree-ii/
+// Problem specs at https://leetcode.com/problems/string-matching-in-an-array
 // Solution beats 100% in runtime (<1ms), 33.76% in memory usage (11.66MB)
 
 class Solution {
